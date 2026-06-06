@@ -1,7 +1,7 @@
 ## Hi there 👋 Im Tamalera
 <p align="center">
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=tamalera&show_icons=true&count_private=true&theme=highcontrast&hide_border=true&show=&hide=&bg_color=00000000">
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=tamalera&layout=compact&hide_border=true&theme=highcontrast&bg_color=00000000&langs_count=8&hide=php">
+  <img alt="stats" height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=tamalera&show_icons=true&count_private=true&theme=highcontrast&hide_border=true&show=&hide=&bg_color=00000000">
+  <img alt="top_langs" height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=tamalera&layout=compact&hide_border=true&theme=highcontrast&bg_color=00000000&langs_count=8&hide=php">
 </p>
 
 ----
