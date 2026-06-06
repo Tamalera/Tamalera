@@ -7,7 +7,7 @@
 ----
 ![learning](https://img.shields.io/static/v1?label=&message=learning:&color=111&style=flat-square)
 ![c](https://img.shields.io/static/v1?logo=c&label=&message=c&color=A8B9CC&logoColor=fff&style=flat-square)
-![rust](https://img.shields.io/static/v1?logo=rust&label=&message=rust&color=000000&logoColor=fff&style=flat-square)
+![r](https://img.shields.io/static/v1?logo=r&label=&message=R&color=000000&logoColor=fff&style=flat-square)
 <br/>
 ![languages&tools](https://img.shields.io/static/v1?label=&message=languages%26tools:&color=111&style=flat-square)
 ![angular](https://img.shields.io/static/v1?logo=angular&label=&message=angular&color=0F0F11&logoColor=fff&style=flat-square)
